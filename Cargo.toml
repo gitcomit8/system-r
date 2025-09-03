@@ -1,0 +1,8 @@
+[workspace]
+membets=[
+	"system-r-core",
+	"system-r-ctl",
+	"system-r-shared".
+]
+
+[workspace.dependencies]
